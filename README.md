@@ -57,6 +57,6 @@ Follow the fully detailed project requiremnts in the following file : [Project r
 **Running Video**
 
 
-![Video](https://github.com/user-attachments/assets/f40dbb3f-d46e-4b2c-adb4-15b538cddf5c)
+https://github.com/user-attachments/assets/f40dbb3f-d46e-4b2c-adb4-15b538cddf5c
 
 
