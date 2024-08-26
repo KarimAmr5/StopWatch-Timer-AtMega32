@@ -14,6 +14,7 @@ This project purpose is to implement a StopWatch timer system using the followin
 - [Components](#Components)
 - [Circuit](#Circuit)
 - [How to run ](#How-to-run)
+- [Running Video](#Running-Video)
 
 
 ## Overview
@@ -36,7 +37,8 @@ Follow the fully detailed project requiremnts in the following file : [Project r
 
 ## Circuit 
 
-![circuit]()
+![circuit](https://github.com/user-attachments/assets/0bd10be7-2f51-47d4-bb27-d21bb02f9f8c)
+
 
 ## How to run
 
@@ -51,3 +53,10 @@ Follow the fully detailed project requiremnts in the following file : [Project r
 
 - Start the StopWatch Timer 
 - You can try to stop , reset or pause and check the accuracy of the timer !
+
+**Running Video**
+
+
+![Video](https://github.com/user-attachments/assets/f40dbb3f-d46e-4b2c-adb4-15b538cddf5c)
+
+
